@@ -1,6 +1,6 @@
-The Best Web Dev Class
+# The Best Web Dev Class
 
-It's your boy Mr. Gil
+__It's your boy Mr. Gil with your girl Ms. Megan and your boy Mr. Rishob (aka the best teachers ever)__
 
 Here are your project links
 
