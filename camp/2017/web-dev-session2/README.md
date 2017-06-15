@@ -1,8 +1,8 @@
-# The Best Web Dev Class
+The Best Web Dev Class
 
-## It's your boy Mr. Gil
+It's your boy Mr. Gil
 
-### Here are your project links
+Here are your project links
  
 | Name    | e-You Project Link                                         | Comic Book Project Link                                    |
 |---------|------------------------------------------------------------|------------------------------------------------------------|
