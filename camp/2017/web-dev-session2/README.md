@@ -61,3 +61,5 @@ Here are your project links
 <td><a href="https://codepen.io/_RP_MC_/pen/eRBzxG">https://codepen.io/_RP_MC_/pen/eRBzxG</a></td>
 </tr></tbody>
 </table>
+
+Here are (some of the resources)[http://code.cr/web-resources] you used and some news ones for you to try out.
