@@ -62,4 +62,4 @@ Here are your project links
 </tr></tbody>
 </table>
 
-Here are (some of the resources)[http://code.cr/web-resources] you used and some news ones for you to try out.
+Here are [some of the resources](http://code.cr/web-resources) you used and some news ones for you to try out.
