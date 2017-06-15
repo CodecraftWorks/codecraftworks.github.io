@@ -59,7 +59,14 @@ Here are your project links
 <td>Roman</td>
 <td><a href="https://codepen.io/_RP_MC_/pen/NgrEGq">https://codepen.io/_RP_MC_/pen/NgrEGq</a></td>
 <td><a href="https://codepen.io/_RP_MC_/pen/eRBzxG">https://codepen.io/_RP_MC_/pen/eRBzxG</a></td>
-</tr></tbody>
+</tr>
+<td>Sagan</td>
+<td colspan="2"><a href="https://nagasquatch.github.io/">https://nagasquatch.github.io/</a></td>
+</tr>
+<td>Kyle</td>
+<td colspan="2"><a href="https://f1r3site.github.io/">https://f1r3site.github.io/</a></td>
+</tr>
+</tbody>
 </table>
 
 Here are [some of the resources](http://code.cr/web-resources) you used and some news ones for you to try out.
