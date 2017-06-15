@@ -60,9 +60,11 @@ Here are your project links
 <td><a href="https://codepen.io/_RP_MC_/pen/NgrEGq">https://codepen.io/_RP_MC_/pen/NgrEGq</a></td>
 <td><a href="https://codepen.io/_RP_MC_/pen/eRBzxG">https://codepen.io/_RP_MC_/pen/eRBzxG</a></td>
 </tr>
+<tr>
 <td>Sagan</td>
 <td colspan="2"><a href="https://nagasquatch.github.io/">https://nagasquatch.github.io/</a></td>
 </tr>
+<tr>
 <td>Kyle</td>
 <td colspan="2"><a href="https://f1r3site.github.io/">https://f1r3site.github.io/</a></td>
 </tr>
